@@ -1,0 +1,26 @@
+{
+  "name": "chai-backend",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [
+    "javascipt",
+    "backend",
+    "chai"
+  ],
+  "homepage": "https://github.com/j-manas04/chai-backend#readme",
+  "bugs": {
+    "url": "https://github.com/j-manas04/chai-backend/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/j-manas04/chai-backend.git"
+  },
+  "license": "ISC",
+  "author": "Manas",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {}
+}
